@@ -1,0 +1,6 @@
+{
+  "name": "twink",
+  "version-string": "0.1.0",
+  "description": "Dependency-free C++17 tweening for user-defined object properties.",
+  "license": "MIT"
+}
